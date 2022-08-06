@@ -8,20 +8,38 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Aug 2022 15:16:43 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Test2</title>
+      <link>/projects/hackathons/test2/</link>
+      <pubDate>Sat, 06 Aug 2022 16:39:55 -0400</pubDate>
+      
+      <guid>/projects/hackathons/test2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test1</title>
+      <link>/projects/hackathons/test1/</link>
+      <pubDate>Sat, 06 Aug 2022 16:39:49 -0400</pubDate>
+      
+      <guid>/projects/hackathons/test1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>StockXScraper</title>
-      <link>/projects/stockxscraper/</link>
+      <link>/projects/class-projects/stockxscraper/</link>
       <pubDate>Sat, 06 Aug 2022 16:14:29 -0400</pubDate>
       
-      <guid>/projects/stockxscraper/</guid>
+      <guid>/projects/class-projects/stockxscraper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Art Robot</title>
-      <link>/projects/artrobot/</link>
+      <link>/projects/personal-projects/artrobot/</link>
       <pubDate>Sat, 06 Aug 2022 16:01:01 -0400</pubDate>
       
-      <guid>/projects/artrobot/</guid>
+      <guid>/projects/personal-projects/artrobot/</guid>
       <description></description>
     </item>
     

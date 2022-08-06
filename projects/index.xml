@@ -7,23 +7,5 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Aug 2022 16:00:13 -0400</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>StockXScraper</title>
-      <link>/projects/stockxscraper/</link>
-      <pubDate>Sat, 06 Aug 2022 16:14:29 -0400</pubDate>
-      
-      <guid>/projects/stockxscraper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Art Robot</title>
-      <link>/projects/artrobot/</link>
-      <pubDate>Sat, 06 Aug 2022 16:01:01 -0400</pubDate>
-      
-      <guid>/projects/artrobot/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

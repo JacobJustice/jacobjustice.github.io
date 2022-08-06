@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Projects on Jacob Justice</title>
+    <link>/projects/personal-projects/</link>
+    <description>Recent content in Personal Projects on Jacob Justice</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Aug 2022 16:43:51 -0400</lastBuildDate><atom:link href="/projects/personal-projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Art Robot</title>
+      <link>/projects/personal-projects/artrobot/</link>
+      <pubDate>Sat, 06 Aug 2022 16:01:01 -0400</pubDate>
+      
+      <guid>/projects/personal-projects/artrobot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
