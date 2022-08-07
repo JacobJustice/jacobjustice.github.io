@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Jacob Justice</title>
+    <link>/publications/</link>
+    <description>Recent content in Publications on Jacob Justice</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Aug 2022 16:00:02 -0400</lastBuildDate><atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Do We Measure What We Perceive? Comparison of Perceptual and Computed Differences between Hand Animations</title>
+      <link>/publications/comparehands/content/</link>
+      <pubDate>Sat, 06 Aug 2022 15:42:55 -0400</pubDate>
+      
+      <guid>/publications/comparehands/content/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
